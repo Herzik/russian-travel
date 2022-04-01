@@ -1,0 +1,19 @@
+.header__lang-link {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.15;
+  color: #fff;
+  text-decoration: none;
+}
+
+@media screen and (min-width: 768px) {
+  .header__lang-link {
+    font-size: 24px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .header__lang-link {
+    font-size: 24px;
+  }
+}
